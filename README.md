@@ -14,6 +14,23 @@ This project involves analyzing sales data from a Diwali season to gain insights
 - [License](#license)
 - [Project Link](#project-link)
 
+## Installation
+To run the project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/diwali-sales-analysis.git
+   ```
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd diwali-sales-analysis
+   ```
+
+3. **Install the required packages:**
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Dataset
 The dataset used for this analysis is provided in the file `dewali sales data.xlsx`. The dataset contains information on various products sold during the Diwali season, including the following columns:
