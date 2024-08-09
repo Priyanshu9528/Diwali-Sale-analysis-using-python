@@ -1,6 +1,3 @@
-Here's the GitHub README in markdown format:
-
-```markdown
 # Diwali Sales Analysis
 
 ## Project Overview
