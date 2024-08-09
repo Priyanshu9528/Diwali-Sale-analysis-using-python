@@ -12,6 +12,7 @@ This project involves analyzing sales data from a Diwali season to gain insights
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Project Link](#project-link)
 
 
 ## Dataset
@@ -61,4 +62,10 @@ If you would like to contribute to this project, please fork the repository and 
 
 ## License
 This project is licensed under the MIT License.
+
+## Project Link
+You can access the project directly on Google Colab using the following link:
+[Diwali Sales Analysis on Google Colab](https://colab.research.google.com/drive/1r40THaN0EyXFEc3vNp0uzE-WEidaXiv1#scrollTo=94UlSHw_dkCr)
 ```
+
+This README includes a section with the project link that directs users to the Google Colab notebook.
